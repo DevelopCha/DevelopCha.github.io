@@ -1,7 +1,7 @@
 
 
 
-(test)Move to Test
+[Link](test)Move to Test
 
 
 Hello World!
